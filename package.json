@@ -1,7 +1,0 @@
-{
-  "homepage": "https://algorembrant.github.io/drawdown-simulator",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-}
